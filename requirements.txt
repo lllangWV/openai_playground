@@ -1,0 +1,4 @@
+pip install git+https://github.com/openai/whisper.git -q
+pandas
+torch 
+openai/whisper
